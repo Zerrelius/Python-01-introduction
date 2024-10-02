@@ -23,3 +23,17 @@ while zähler < 3:
 # 0
 # 1
 # 2
+
+liste=["Kekse","Kuchen","Kirschen","Torte","Sahnebeutel","Kaffee",1,2,3]
+for i in liste:
+    print(i)
+# Ausgabe:
+# Kekse
+# Kuchen
+# Kirschen
+# Torte
+# Sahnebeutel
+# Kaffee
+# 1
+# 2
+# 3
