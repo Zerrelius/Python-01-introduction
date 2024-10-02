@@ -1,4 +1,4 @@
-# Erklärung einer For Schleife oder besser gesagt einem Loop
+# Erklärung einer For-Schleife und While-Schleifen oder besser gesagt einem Loop
 
 woerter = ["Apfel", "Banane", "Kirsche"]
 for frucht in woerter:
